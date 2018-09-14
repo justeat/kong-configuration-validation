@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "route": "/health/check",
+      "method": "GET",
+      "requests": [
+        {
+          "uri": "/health/check",
+          "headers": { "Accept-Charset": "utf-8" }
+        }
+      ]
+    }
+  ]
+}

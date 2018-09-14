@@ -1,0 +1,9 @@
+﻿<Project>
+	<PropertyGroup>
+		<Authors>Just Eat</Authors>
+		<RepositoryUrl>https://github.com/justeat/kong-configuration-validation.git</RepositoryUrl>
+		<RepositoryType>Git</RepositoryType>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+</Project>
